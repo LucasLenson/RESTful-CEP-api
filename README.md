@@ -13,4 +13,5 @@ Java RESTful API criada para para explorar as implementações dos padrões de p
  - **Spring Data JPA**: Para simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL
  - **OpenAPI (Swagger)**: Para criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger)
  - **H2 Database**: Para persistir os dados em um banco de testes e facilitar a produção
+ - **Maven**: Para o gerenciamento de dependências e padronização do projeto
   
