@@ -11,7 +11,7 @@ Java RESTful API criada para para explorar as implementações dos padrões de p
  - **Java 22**: Utilizaremos a versão 22 do Java
  - **Spring Boot 3.2.5**: Para maximizar a produtividade por meio de sua  premissa de autoconfiguração
  - **Spring Data JPA**: Para simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL
- - **OpenAPI (Swagger)**: Para criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger)
+ - **OpenAPI (Swagger)**: Para criar uma documentação de API eficaz e fácil de entender
  - **H2 Database**: Para persistir os dados em um banco de testes e facilitar a produção
  - **Maven**: Para o gerenciamento de dependências e padronização do projeto
   
