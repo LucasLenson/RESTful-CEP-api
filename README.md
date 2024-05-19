@@ -5,6 +5,8 @@ Java RESTful API criada para para explorar as implementações dos padrões de p
 - Strategy/Repository
 - Facade
 
+ Esta API é projetada para simplificar o gerenciamento de clientes e seus endereços, integrando-se com o serviço externo [ViaCEP](https://viacep.com.br) para garantir que os dados de endereço sejam precisos e atualizados. Ela demonstra boas práticas de separação de responsabilidades e uso de padrões de projeto como injeção de dependência e reaproveitamento de código através de interfaces e implementações.
+
 ### Principais Tecnologias
  - **Java 22**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que a linguagem oferece
  - **Spring Boot 3.2.5**: Para maximizar a produtividade por meio de sua  premissa de autoconfiguração
